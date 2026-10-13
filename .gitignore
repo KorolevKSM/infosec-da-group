@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Данные и артефакты анализа
+*.pcap
+*.pcapng
+*.pkl
+.ipynb_checkpoints/
