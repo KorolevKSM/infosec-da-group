@@ -224,3 +224,5 @@ __marimo__/
 *.pcapng
 *.pkl
 .ipynb_checkpoints/
+.vscode/
+**/*empire_apt3_*.json
